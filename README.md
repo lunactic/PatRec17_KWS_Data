@@ -1,6 +1,6 @@
 # Keyword Spotting Data
 
-##Task ##
+## Task ##
 Your task is to develop a machine learning approach for spotting keywords in the provided documents.
 You can test your approach on the provided training and validation dataset where you find a list of keywords that you can find for certain at least once in each set.
 
@@ -43,7 +43,7 @@ Contains the original images in jpg-format.
 ### task ###
 Contains three files:
 
-####train.txt / valid.txt ####
+#### train.txt / valid.txt ####
 Contains a splitting of the documents into a training and a validation set.
 
 
